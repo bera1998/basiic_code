@@ -7,7 +7,7 @@ public class Digit_find {
         System.out.println("Enter the value ");
         int n= sc.nextInt();
         int count=0;
-        int D=4;
+        int D=5;
         while (n>0){
             int digit=n%10;
                 if(digit==D){
